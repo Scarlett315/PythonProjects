@@ -9,7 +9,7 @@ surfaceHeight = 600
 
 surface = pygame.display.set_mode((surfaceWidth, surfaceHeight))
 clock = pygame.time.Clock()
-pygame.display.set_caption("Minesweeper")
+pygame.display.set_caption("MinesweeperNew")
 
 
 def makeBombs():
